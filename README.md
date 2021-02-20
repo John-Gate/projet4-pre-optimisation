@@ -5,4 +5,4 @@
 _Site Web "Pré optimisation"_
 
 
-Ce Repo sert d'exemple pour l'optimastion qui a été réalisé *[ici](https://john-gate.github.io/jeanchristianbarriere_4_09112020/)*.
+Ce Repo sert d'exemple pour l'optimisation qui a été réalisé *[ici](https://john-gate.github.io/jeanchristianbarriere_4_09112020/)*.
