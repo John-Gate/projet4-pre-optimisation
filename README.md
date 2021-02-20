@@ -1,8 +1,6 @@
+# Projet 4 La chouette agence
+
 ![Image text](https://github.com/John-Gate/jeanchristianbarriere_4_09112020/blob/main/img/logo.png)
-
-##Projet4
-
-La chouette agence
 
 _Site Web "Pré optimisation"_
 
